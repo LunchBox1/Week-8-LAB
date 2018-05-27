@@ -2,5 +2,4 @@
 
 NIKITA MARCHUKOV
 
-## The Lab
 
